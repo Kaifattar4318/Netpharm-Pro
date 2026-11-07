@@ -1,8 +1,11 @@
-streamlit
+streamlit>=1.50
 requests
 pandas
 numpy
+scipy
 networkx
 matplotlib
+matplotlib-venn
 openpyxl
-beautifulsoup4
+xlrd
+pyvis
